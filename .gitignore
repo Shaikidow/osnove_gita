@@ -3,6 +3,7 @@
 logs_*
 library/*.zip
 svastara/
+bin/
 
 *.users
 *.db
